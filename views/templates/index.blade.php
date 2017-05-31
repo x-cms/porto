@@ -1,4 +1,4 @@
-@extends('front.layouts.master')
+@extends('porto::layouts.master')
 
 @section('content')
     <div class="main" role="main">
@@ -7,7 +7,7 @@
                  data-plugin-options="{'sliderLayout': 'fullscreen'}">
                 <ul>
                     <li data-transition="fade">
-                        <img src="img/slides/light-cover.jpg"
+                        <img src="{{ Theme::asset('porto::images/slides/light-cover.jpg') }}"
                              alt=""
                              data-bgposition="center center"
                              data-bgfit="cover"
@@ -18,7 +18,7 @@
                              data-volume="mute"
                              data-videowidth="100%"
                              data-videoheight="100%"
-                             data-videomp4="video/light.mp4"
+                             data-videomp4="{{ Theme::asset('porto::video/light.mp4') }}"
                              data-videopreload="preload"
                              data-videoloop="loop"
                              data-forceCover="1"
@@ -32,7 +32,7 @@
                              data-y="center" data-voffset="-95"
                              data-start="1000"
                              style="z-index: 5"
-                             data-transform_in="x:[-300%];opacity:0;s:500;"><img src="img/slide-title-border.png"
+                             data-transform_in="x:[-300%];opacity:0;s:500;"><img src="{{ Theme::asset('porto::images/slide-title-border.png') }}"
                                                                                  alt=""></div>
 
                         <div class="tp-caption top-label"
@@ -48,7 +48,7 @@
                              data-y="center" data-voffset="-95"
                              data-start="1000"
                              style="z-index: 5"
-                             data-transform_in="x:[300%];opacity:0;s:500;"><img src="img/slide-title-border.png"
+                             data-transform_in="x:[300%];opacity:0;s:500;"><img src="{{ Theme::asset('porto::images/slide-title-border.png') }}"
                                                                                 alt=""></div>
 
                         <div class="tp-caption main-label"
@@ -116,12 +116,12 @@
                 <div class="col-md-4">
                     <div class="row">
                         <div class="col-md-6">
-                            <img class="img-responsive mt-xl mb-xl" src="img/DSC08248.jpg" alt="Office">
-                            <img class="img-responsive mb-xl" src="img/IMG_3122----.jpg" alt="Office">
+                            <img class="img-responsive mt-xl mb-xl" src="{{ Theme::asset('porto::images/DSC08248.jpg') }}" alt="Office">
+                            <img class="img-responsive mb-xl" src="{{ Theme::asset('porto::images/IMG_3122----.jpg') }}" alt="Office">
                         </div>
                         <div class="col-md-6">
-                            <img class="img-responsive mb-xl" src="img/IMG_31150000000.jpg" alt="Office">
-                            <img class="img-responsive mb-xl" src="img/timg0000.jpg" alt="Office">
+                            <img class="img-responsive mb-xl" src="{{ Theme::asset('porto::images/IMG_31150000000.jpg') }}" alt="Office">
+                            <img class="img-responsive mb-xl" src="{{ Theme::asset('porto::images/timg0000.jpg') }}" alt="Office">
                         </div>
                     </div>
                 </div>
@@ -253,7 +253,7 @@
                     <a href="portfolio-single-small-slider.html">
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
-									<img src="img/products/01.jpg" class="img-responsive" alt="">
+									<img src="{{ Theme::asset('porto::images/products/01.jpg') }}" class="img-responsive" alt="">
 									<span class="thumb-info-title">
 										<span class="thumb-info-inner">杯装水</span>
 										<span class="thumb-info-type">查看更多</span>
@@ -271,7 +271,7 @@
                     <a href="portfolio-single-small-slider.html">
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
-									<img src="img/products/02.jpg" class="img-responsive" alt="">
+									<img src="{{ Theme::asset('porto::images/products/02.jpg') }}" class="img-responsive" alt="">
 									<span class="thumb-info-title">
 										<span class="thumb-info-inner">卡装水</span>
 										<span class="thumb-info-type">查看更多</span>
@@ -289,7 +289,7 @@
                     <a href="portfolio-single-small-slider.html">
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
-									<img src="img/products/03.jpg" class="img-responsive" alt="">
+									<img src="{{ Theme::asset('porto::images/products/03.jpg') }}" class="img-responsive" alt="">
 									<span class="thumb-info-title">
 										<span class="thumb-info-inner">瓶装水</span>
 										<span class="thumb-info-type">查看更多</span>
@@ -307,7 +307,7 @@
                     <a href="portfolio-single-small-slider.html">
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
-									<img src="img/products/04.jpg" class="img-responsive" alt="">
+									<img src="{{ Theme::asset('porto::images/products/04.jpg') }}" class="img-responsive" alt="">
 									<span class="thumb-info-title">
 										<span class="thumb-info-inner">桶装水</span>
 										<span class="thumb-info-type">查看更多</span>
@@ -325,7 +325,7 @@
                     <a href="portfolio-single-small-slider.html">
 							<span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
 								<span class="thumb-info-wrapper">
-									<img src="img/products/05.jpg" class="img-responsive" alt="">
+									<img src="{{ Theme::asset('porto::images/products/05.jpg') }}" class="img-responsive" alt="">
 									<span class="thumb-info-title">
 										<span class="thumb-info-inner">饮水机</span>
 										<span class="thumb-info-type">查看更多</span>
@@ -341,7 +341,7 @@
         </div>
         <section class="parallax section section-text-light section-parallax section-center mt-none"
                  data-plugin-parallax
-                 data-plugin-options="{'speed': 1.5}" data-image-src="img/parallax-2.jpg">
+                 data-plugin-options="{'speed': 1.5}" data-image-src="{{ Theme::asset('porto::images/parallax-2.jpg') }}">
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
@@ -391,62 +391,62 @@
                      data-plugin-options="{'items': 6, 'autoplay': true, 'autoplayTimeout': 3000, 'dots': false}">
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/bs.png" alt="包商银行">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/bs.png') }}" alt="包商银行">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/cyq.png" alt="草原情">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/cyq.png') }}" alt="草原情">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/dmc.png" alt="大牧场">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/dmc.png') }}" alt="大牧场">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/ht.png" alt="河套集团">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/ht.png') }}" alt="河套集团">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/mys.png" alt="蒙伊萨">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/mys.png') }}" alt="蒙伊萨">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/nmgyh.png" alt="内蒙古银行">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/nmgyh.png') }}" alt="内蒙古银行">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/tm.png" alt="田牧集团">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/tm.png') }}" alt="田牧集团">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/wdl.png" alt="维多利集团">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/wdl.png') }}" alt="维多利集团">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/mn.png" alt="蒙牛">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/mn.png') }}" alt="蒙牛">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/yl.png" alt="伊利集团">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/yl.png') }}" alt="伊利集团">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/yd.png" alt="内蒙古移动">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/yd.png') }}" alt="内蒙古移动">
                         </div>
                     </div>
                     <div class="owl-item">
                         <div>
-                            <img class="img-responsive" src="img/lt.png" alt="内蒙古联通">
+                            <img class="img-responsive" src="{{ Theme::asset('porto::images/lt.png') }}" alt="内蒙古联通">
                         </div>
                     </div>
                 </div>

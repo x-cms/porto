@@ -5,7 +5,7 @@
                 <div class="header-column">
                     <div class="header-logo">
                         <a href="index.html">
-                            <img alt="Porto" width="82" height="40" src="img/logo-default-slim.png">
+                            <img alt="Porto" width="82" height="40" src="images/logo-default-slim.png">
                         </a>
                     </div>
                 </div>

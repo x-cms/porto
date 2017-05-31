@@ -1,0 +1,26 @@
+/* Add here all your CSS customizations */
+@media (min-width: 992px) {
+    #header .header-nav-main.header-nav-main-square nav > ul > li > a {
+        color: #FFF !important;
+    }
+    #header .header-nav-main.header-nav-main-square nav > ul > li.active > a {
+        color: #0088cc !important;
+    }
+    #header .header-nav-main.header-nav-main-square nav > ul > li.active > a.dropdown-toggle::after {
+        border-color: #0088cc transparent transparent !important;
+    }
+    #header .header-nav-main.header-nav-main-square nav > ul > li:hover > a {
+        color: #0088cc !important;
+    }
+    #header .header-nav-main.header-nav-main-square nav > ul > li:hover > a.dropdown-toggle::after {
+        border-color: #0088cc transparent transparent !important;
+    }
+}
+.custom-page-header {
+    padding: 120px 0 35px;
+    background: #1A1E2A !important;
+    border-color: #1A1E2A !important;
+}
+.custom-page-header h1 {
+    font-size: 2em;
+}

@@ -75,11 +75,11 @@
                 <h4>关注我们</h4>
                 <div data-appear-animation="fadeInUp" data-appear-animation-delay="300">
                     <div class="wechat">
-                        <img src="{{ asset('img/wechat.jpg') }}" alt="微信公众平台" title="微信公众平台" class="img-responsive">
+                        <img src="{{ Theme::asset('porto::images/wechat.jpg') }}" alt="微信公众平台" title="微信公众平台" class="img-responsive">
                         <span>微信公众平台</span>
                     </div>
                     <div class="weibo">
-                        <img src="{{ asset('img/weibo.jpg') }}" alt="关注官方微博" title="关注官方微博" class="img-responsive">
+                        <img src="{{ Theme::asset('porto::images/weibo.jpg') }}" alt="关注官方微博" title="关注官方微博" class="img-responsive">
                         <span>新浪官方微博</span>
                     </div>
                 </div>
