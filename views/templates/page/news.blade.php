@@ -57,14 +57,14 @@
                         <div class="thumb-info custom-thumb-info-2 thumb-info-hide-wrapper-bg">
                             <h4 class="center">公司新闻</h4>
                             <span class="thumb-info-wrapper m-none">
-                                <img src="{{ asset('images/cj6.jpg') }}" class="img-responsive" alt="">
+                                <img src="{{ Theme::asset('images/cj6.jpg') }}" class="img-responsive" alt="">
                             </span>
                             <span class="thumb-info-caption background-color-light center">
                                 <h4 class="align-left">万盛昌水业荣获知名商标</h4>
                                 <p class="text-color-dark p-none align-left">近日，呼和浩特市万盛昌水业饮料有限公司注册商标“万盛昌”被呼和浩特市知名商标认定委员会认定为知名商标</p>
                                 <hr class="solid tall">
                                 <a class="btn btn-primary"
-                                   href="/news/list#company" title="Learn More">了解更多</a>
+                                   href="/news/list.html#company" title="Learn More">了解更多</a>
                             </span>
                         </div>
                     </div>
@@ -72,14 +72,14 @@
                         <div class="thumb-info custom-thumb-info-2 background-color-primary text-color-light">
                             <h4 class="center text-color-light">行业资讯</h4>
                             <span class="thumb-info-wrapper m-none">
-                                <img src="{{ asset('images/cj6.jpg') }}" class="img-responsive" alt="">
+                                <img src="{{ Theme::asset('images/cj6.jpg') }}" class="img-responsive" alt="">
                             </span>
                             <span class="thumb-info-caption center">
                                 <h4 class="align-left text-color-light">万盛昌水业荣获知名商标</h4>
                                 <p class="text-color-dark p-none align-left text-color-light">近日，呼和浩特市万盛昌水业饮料有限公司注册商标“万盛昌”被呼和浩特市知名商标认定委员会认定为知名商标</p>
                                 <hr class="solid tall">
                                 <a class="btn btn-default"
-                                   href="demo-gym-classes-detail.html" title="Learn More">了解更多</a>
+                                   href="/news/list.html#industry" title="Learn More">了解更多</a>
                             </span>
                         </div>
                     </div>
@@ -87,14 +87,14 @@
                         <div class="thumb-info custom-thumb-info-2 thumb-info-hide-wrapper-bg">
                             <h4 class="center">媒体报道</h4>
                             <span class="thumb-info-wrapper m-none">
-                                <img src="{{ asset('images/cj6.jpg') }}" class="img-responsive" alt="">
+                                <img src="{{ Theme::asset('images/cj6.jpg') }}" class="img-responsive" alt="">
                             </span>
                             <span class="thumb-info-caption background-color-light center">
                                 <h4 class="align-left">万盛昌水业荣获知名商标</h4>
                                 <p class="text-color-dark p-none align-left">近日，呼和浩特市万盛昌水业饮料有限公司注册商标“万盛昌”被呼和浩特市知名商标认定委员会认定为知名商标</p>
                                 <hr class="solid tall">
                                 <a class="btn btn-primary "
-                                   href="demo-gym-classes-detail.html" title="Learn More">了解更多</a>
+                                   href="/news/list.html#media" title="Learn More">了解更多</a>
                             </span>
                         </div>
                     </div>
@@ -102,14 +102,14 @@
                         <div class="thumb-info custom-thumb-info-2 background-color-primary" data-appear-animation="flipInY">
                             <h4 class="center text-color-light">最新活动</h4>
                             <span class="thumb-info-wrapper m-none">
-                                <img src="{{ asset('images/cj6.jpg') }}" class="img-responsive" alt="">
+                                <img src="{{ Theme::asset('images/cj6.jpg') }}" class="img-responsive" alt="">
                             </span>
                             <span class="thumb-info-caption center">
                                 <h4 class="align-left text-color-light">万盛昌水业荣获知名商标</h4>
                                 <p class="text-color-dark p-none align-left text-color-light">近日，呼和浩特市万盛昌水业饮料有限公司注册商标“万盛昌”被呼和浩特市知名商标认定委员会认定为知名商标</p>
                                 <hr class="solid tall">
                                 <a class="btn btn-default"
-                                   href="demo-gym-classes-detail.html" title="Learn More">了解更多</a>
+                                   href="/news/list.html#activity" title="Learn More">了解更多</a>
                             </span>
                         </div>
                     </div>

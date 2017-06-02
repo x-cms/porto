@@ -28,7 +28,7 @@
                             </button>
                             <div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
                                 <nav>
-                                    {!! Menu::renderNav([
+                                    {!! nav()->render([
                                         'slug' => 'main-nav',
                                         'view' => 'porto::partials.nav'
                                     ]) !!}

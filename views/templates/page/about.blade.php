@@ -384,242 +384,242 @@
                              data-plugin-options="{'items': 5, 'autoplay': true, 'autoplayTimeout': 3000, 'loop': false, 'nav': true, 'dots': false}">
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/01.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/01.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/01.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/01.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/02.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/02.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/02.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/02.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/03.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/03.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/03.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/03.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/04.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/04.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/04.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/04.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/05.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/05.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/05.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/05.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/06.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/06.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/06.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/06.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/07.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/07.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/07.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/07.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/08.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/08.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/08.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/08.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/09.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/09.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/09.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/09.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/10.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/10.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/10.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/10.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/11.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/11.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/11.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/11.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/12.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/12.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/12.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/12.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/13.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/13.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/13.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/13.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/14.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/14.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/14.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/14.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/15.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/15.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/15.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/15.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/16.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/16.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/16.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/16.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/17.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/17.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/17.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/17.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/18.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/18.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/18.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/18.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/19.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/19.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/19.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/19.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/20.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/20.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/20.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/20.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/21.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/21.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/21.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/21.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/22.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/22.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/22.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/22.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/23.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/23.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/23.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/23.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/24.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/24.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/24.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/24.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/25.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/25.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/25.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/25.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/26.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/26.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/26.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/26.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/27.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/27.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/27.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/27.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/28.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/28.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/28.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/28.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/29.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/29.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/29.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/29.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/30.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/30.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/30.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/30.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/31.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/31.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/31.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/31.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/32.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/32.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/32.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/32.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/33.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/33.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/33.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/33.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/34.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/34.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/34.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/34.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/35.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/35.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/35.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/35.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/36.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/36.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/36.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/36.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/37.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/37.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/37.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/37.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/38.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/38.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/38.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/38.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/39.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/39.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/39.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/39.jpg') }}" alt="">
                                 </a>
                             </div>
                             <div>
                                 <a class="img-thumbnail img-thumbnail-hover-icon"
-                                   href="{{ asset('images/honor/40.jpg') }}">
-                                    <img class="img-responsive" src="{{ asset('images/honor/40.jpg') }}" alt="">
+                                   href="{{ Theme::asset('images/honor/40.jpg') }}">
+                                    <img class="img-responsive" src="{{ Theme::asset('images/honor/40.jpg') }}" alt="">
                                 </a>
                             </div>
                         </div>
@@ -636,28 +636,28 @@
                 </div>
                 <div class="col-md-3">
                     <a class="lightbox"
-                       href="{{ asset('images/team/1-3.jpg') }}" data-plugin-options="{'type':'image'}">
-                        <img src="{{ asset('images/team/1-3.jpg') }}" alt="" class="img-responsive">
+                       href="{{ Theme::asset('images/team/1-3.jpg') }}" data-plugin-options="{'type':'image'}">
+                        <img src="{{ Theme::asset('images/team/1-3.jpg') }}" alt="" class="img-responsive">
                     </a>
                     <a class="lightbox"
-                       href="{{ asset('images/team/1-1.jpg') }}" data-plugin-options="{'type':'image'}">
-                        <img src="{{ asset('images/team/1-1.jpg') }}" alt="" class="img-responsive">
+                       href="{{ Theme::asset('images/team/1-1.jpg') }}" data-plugin-options="{'type':'image'}">
+                        <img src="{{ Theme::asset('images/team/1-1.jpg') }}" alt="" class="img-responsive">
                     </a>
                 </div>
                 <div class="col-md-6">
                     <a class="lightbox"
-                       href="{{ asset('images/team/1-2.jpg') }}" data-plugin-options="{'type':'image'}">
-                        <img src="{{ asset('images/team/1-2.jpg') }}" alt="" class="img-responsive">
+                       href="{{ Theme::asset('images/team/1-2.jpg') }}" data-plugin-options="{'type':'image'}">
+                        <img src="{{ Theme::asset('images/team/1-2.jpg') }}" alt="" class="img-responsive">
                     </a>
                 </div>
                 <div class="col-md-3">
                     <a class="lightbox"
-                       href="{{ asset('images/team/1-5.jpg') }}" data-plugin-options="{'type':'image'}">
-                        <img src="{{ asset('images/team/1-5.jpg') }}" alt="" class="img-responsive">
+                       href="{{ Theme::asset('images/team/1-5.jpg') }}" data-plugin-options="{'type':'image'}">
+                        <img src="{{ Theme::asset('images/team/1-5.jpg') }}" alt="" class="img-responsive">
                     </a>
                     <a class="lightbox"
-                       href="{{ asset('images/team/1-4.jpg') }}" data-plugin-options="{'type':'image'}">
-                        <img src="{{ asset('images/team/1-4.jpg') }}" alt="" class="img-responsive">
+                       href="{{ Theme::asset('images/team/1-4.jpg') }}" data-plugin-options="{'type':'image'}">
+                        <img src="{{ Theme::asset('images/team/1-4.jpg') }}" alt="" class="img-responsive">
                     </a>
                 </div>
             </div>
